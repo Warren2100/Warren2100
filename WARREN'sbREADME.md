@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Warren2100
 - 👀 I’m interested in  Games apps and websites 
-- 🌱 I’m currently learning Fromt and Backend development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Front and Backend development 
+- 💞️ I’m looking to collaborate on real-world projects
 - 📫 How to reach me
 -  WarrenBrooks2100@gmail.com
 
